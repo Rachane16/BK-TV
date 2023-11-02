@@ -1,0 +1,207 @@
+{
+"name": "BK16-TV ",
+"author": "BK-16",
+"image": "https://www.i-pic.info/i/E6N7287761.png",
+"url": "https://tiny.cc/bkwp",
+
+
+"groups": [
+
+
+{
+"name":"ดูฟุตบอล",
+"image":"https://www.i-pic.info/i/JrGV307990.png",
+"url": "https://dl.dropbox.com/s/roxagh3oeh88ajm/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81.txt?dl=0",
+"import": false},
+
+{
+"name": "BK-TV",
+"image": "https://www.i-pic.info/i/sqvQ378773.png",
+"url": "https://dl.dropbox.com/s/2p93yccdaeswqhs/BK-TV.txt?dl=0",
+"import": false 
+},
+
+
+{
+"name":"ดิจิตอลทีวี",
+"image":"https://www.i-pic.info/i/eTZN307995.png",
+"url": "https://dl.dropbox.com/s/fpk5zzdag12zyxn/free-tv.txt?dl=0",
+"import": false},
+
+{
+"name":"กีฬารอบโลก",
+"image":"https://www.i-pic.info/i/wOD9309058.png",
+"url":"https://dl.dropbox.com/scl/fi/mnrwh66jibdlfkf6gldfx/sportwp_update01.txt?rlkey=yrl5jm8iyxxtwfsa1itea42bh&dl=0",
+"import": false},
+
+{
+"name":"ไทยลีก",
+"image":"https://www.i-pic.info/i/l8YT308009.png",
+"url":"https://dl.dropbox.com/s/bjfo8cgz9qr1l7e/ThaiLeague.txt?dl=0",
+"import": false},
+ 
+{
+"name": "หนังใหม่ HD",
+"image": "https://www.i-pic.info/i/Lcau307998.png",
+"url": "https://dl.dropbox.com/s/bx7k1z4a6wqdtla/new.txt?dl=0",
+"import": false
+},
+
+
+{
+"name":"ช่องบันเทิง",
+"image":"https://www.i-pic.info/i/0ZUb307999.png",
+"url": "https://dl.dropbox.com/s/7et1yn1bgq7m1sr/Entertainment.txt?dl=0",
+"import": false},
+
+{
+"name":"ช่องสารคดี",
+"image":"https://www.i-pic.info/i/ZUCF308000.png",
+"url": "https://dl.dropbox.com/s/qdkwhr52id8cbz2/%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%94%E0%B8%B5.txt?dl=0",
+"import": false},
+ 
+{
+"name":"ช่องการ์ตูน",
+"author": "BK-16",
+"image":"https://www.i-pic.info/i/lScd308001.png",
+"url": "https://raw.githubusercontent.com/SUN1996GTR/SUN1996GTR/main/KIDSv8",
+"import": false},
+ 
+{
+"name":"Wiseplay",
+"author": "BK-16",
+"image": "https://www.i-pic.info/i/j6vy308002.png",
+"url": "https://dl.dropbox.com/s/yglb7xpbk1of4hp/%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B9%81%E0%B8%AD%E0%B8%9E.txt?dl=0",
+"import": false},
+ 
+
+ 
+{
+"name": "คลังหนังและซี่รีย์",
+"image": "https://www.i-pic.info/i/igI9308003.png",
+"url": "https://dl.dropbox.com/s/32pa2wja277gw9o/%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%8B%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C.txt?dl=0",
+"import": false
+},
+
+{
+"name": "เว็บไซต์ - Online",
+"image": "https://www.i-pic.info/i/l36c308006.png",
+"url": "https://DL.dropbox.com/s/mr64z72d6bqy2wo/%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B9%84%E0%B8%8B%E0%B8%95%E0%B9%8C%20-%20Online.m3u?dl=0",
+"import": false
+}, 
+
+
+
+
+{
+"name": "Sport Live",
+"image": "https://www.i-pic.info/i/eqRn308008.png",
+"url": "https://dl.dropbox.com/s/yp3bx9mdfuzawgc/SportLive.txt?dl=0",
+"import": false
+}, 
+
+
+
+{
+"name": "ANIME ZONE",
+"image": "https://www.i-pic.info/i/YGj5380127.png",
+"url": "https://dl.dropbox.com/s/0vk5xrn2t5ztklj/ANIME%20ZONE.txt?dl=0",
+"import": false 
+},
+
+
+
+{
+"name": "18+ ADULT",
+"image": "https://www.i-pic.info/i/HmBu380128.png",
+"url": "https://pastebin.com/KLFyfP46",
+"import": false 
+},
+
+{
+"name": "FreeTVdd",
+"image": "https://www.i-pic.info/i/DQFl573321.png",
+"url": "https://dl.dropbox.com/scl/fi/s7qqmys6i1fyv09a0ifu4/FreeTVdd.txt?rlkey=0xwq70v2nfunn2qd930t0jzen&dl=0",
+"import": false
+},
+
+
+
+{
+"name": "วิทยุ",
+"image": "https://www.i-pic.info/i/gbr3308007.png",
+"url": "https://dl.dropbox.com/s/38t4b4gvmvdubvn/radio.txt?dl=0",
+"import": false
+},
+
+{
+"name": "ติอต่อ แจ้งปัญหา",
+"image": "https://www.i-pic.info/i/WEdH308012.png",
+"url": "https://pastebin.com/raw/BXKeYkc5",
+"import": false
+},
+
+
+
+
+],
+
+"stations":[
+
+
+{
+"name": "ANDAMAN888TH",
+"image": "https://www.i-pic.info/i/aqCW592047.png",
+"url": "https://www.andaman888th.com/%e0%b8%94%e0%b8%b9%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/",
+"embed": "true",
+"playInNatPlayer": "true",
+"webviewType": "chrome"
+},
+
+{
+"name": "มวยไทย",
+"image": "https://www.i-pic.info/i/M6Rx378764.png",              
+"url": "https://www.youtube.com/@ONEChampionship",
+"embed": "true",
+"playInNatPlayer": "true",
+"webviewType": "chrome"
+},
+
+
+
+
+
+{
+"name": "โปรแกรมถ่ายทอดสด",
+"image": "https://www.i-pic.info/i/e2nm309057.png",              
+"url": "https://www.premierdream.com/program/",
+"embed": "true",
+"playInNatPlayer": "true",
+"webviewType": "chrome"
+},
+
+ 
+
+ 
+
+{
+"name": "",
+"image": "https://www.i-pic.info/i/f5LN329951.png",              
+"url": "https://inwiptv.com/demo.php",
+"embed": "true",
+"playInNatPlayer": "true",
+"webviewType": "chrome"
+},
+
+{
+"name": "",
+"image": "https://www.i-pic.info/i/oixv463276.png",              
+"url": "https://www.google.co.th/?client=safari&channel=ipad_bm",
+"embed": "true",
+"playInNatPlayer": "true",
+"webviewType": "chrome"
+},
+
+
+]
+}
