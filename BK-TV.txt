@@ -2,7 +2,7 @@
 "name": "BK16-TV ",
 "author": "BK-16",
 "image": "https://www.i-pic.info/i/E6N7287761.png",
-"url": "https://tiny.cc/bkwp",
+"url": "",
 
 
 "groups": [
