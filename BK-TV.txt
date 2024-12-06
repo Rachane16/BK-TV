@@ -1,207 +1,208 @@
 {
 "name": "BK16-TV ",
 "author": "BK-16",
-"image": "https://www.i-pic.info/i/E6N7287761.png",
-"url": "",
-
-
+"image": "https://dl.dropbox.com/scl/fi/nx2b6zyo5cp4hwgtit12b/22-11-66-01-33-23.png?rlkey=khnfawin5mmaxg1vxq5l7nro3&dl=0",
+"url": "https://tiny.cc/bkwp",
+ 
+ 
 "groups": [
-
-
+ 
+ 
+ 
 {
 "name":"ดูฟุตบอล",
-"image":"https://www.i-pic.info/i/JrGV307990.png",
+"image":"https://dl.dropbox.com/scl/fi/fpw4xotb44ljyk25yw43q/2.png?rlkey=p1j6nvp7ran37ey3tys1msfkb&dl=0",
 "url": "https://dl.dropbox.com/s/roxagh3oeh88ajm/%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B5%E0%B8%AC%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81.txt?dl=0",
 "import": false},
-
+ 
 {
 "name": "BK-TV",
-"image": "https://www.i-pic.info/i/sqvQ378773.png",
+"image": "https://dl.dropbox.com/scl/fi/q4fy5f0wtrkt0w9tv60om/bklogo16.png?rlkey=mca3fo1gsr9bi018hg9jdwt6b&dl=0",
 "url": "https://dl.dropbox.com/s/2p93yccdaeswqhs/BK-TV.txt?dl=0",
 "import": false 
 },
-
-
-{
-"name":"ดิจิตอลทีวี",
-"image":"https://www.i-pic.info/i/eTZN307995.png",
-"url": "https://dl.dropbox.com/s/fpk5zzdag12zyxn/free-tv.txt?dl=0",
-"import": false},
-
+ 
+ 
 {
 "name":"กีฬารอบโลก",
-"image":"https://www.i-pic.info/i/wOD9309058.png",
+"image":"https://dl.dropbox.com/scl/fi/lxv1t2dy086242mo854o0/spww.png?rlkey=ntg7p7uwubehvsuaqyihiyfj1&dl=0",
 "url":"https://dl.dropbox.com/scl/fi/mnrwh66jibdlfkf6gldfx/sportwp_update01.txt?rlkey=yrl5jm8iyxxtwfsa1itea42bh&dl=0",
 "import": false},
-
+ 
 {
 "name":"ไทยลีก",
-"image":"https://www.i-pic.info/i/l8YT308009.png",
+"image":"https://dl.dropbox.com/scl/fi/7vctlbjtdwqasvy69yqmk/tlg.png?rlkey=85u0bnl65s87iy79mzdlp99ny&dl=0",
 "url":"https://dl.dropbox.com/s/bjfo8cgz9qr1l7e/ThaiLeague.txt?dl=0",
 "import": false},
  
 {
 "name": "หนังใหม่ HD",
-"image": "https://www.i-pic.info/i/Lcau307998.png",
-"url": "https://dl.dropbox.com/s/bx7k1z4a6wqdtla/new.txt?dl=0",
+"image": "https://dl.dropbox.com/scl/fi/1ks1vp7rkqvx4et6urh5s/mv.png?rlkey=uonx3spyjsakpdlqzdy19jlfl&dl=0",
+"url": "https://dl.dropbox.com/scl/fi/384l799gg68548m9iohyk/.txt?rlkey=nm909une55l8bfqib0j8tnhi9&dl=0",
 "import": false
 },
-
-
+ 
+ 
 {
 "name":"ช่องบันเทิง",
-"image":"https://www.i-pic.info/i/0ZUb307999.png",
+"image":"https://dl.dropbox.com/scl/fi/u942n1oolp4id242nxt5m/cn.png?rlkey=a70pqi1zamsx3k7pxbh3tyj27&dl=0",
 "url": "https://dl.dropbox.com/s/7et1yn1bgq7m1sr/Entertainment.txt?dl=0",
 "import": false},
-
+ 
 {
 "name":"ช่องสารคดี",
-"image":"https://www.i-pic.info/i/ZUCF308000.png",
+"image":"https://dl.dropbox.com/scl/fi/9klvlrhf4stvisgqwux6r/skd.png?rlkey=vxsbstcw9pldc5f50rm6r05m6&dl=0",
 "url": "https://dl.dropbox.com/s/qdkwhr52id8cbz2/%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%94%E0%B8%B5.txt?dl=0",
 "import": false},
  
 {
 "name":"ช่องการ์ตูน",
 "author": "BK-16",
-"image":"https://www.i-pic.info/i/lScd308001.png",
+"image":"https://dl.dropbox.com/scl/fi/58eo7h9o5eb8ntgt34xaq/ct.png?rlkey=2cn7mhubvmodpi8noi4whswsq&dl=0",
 "url": "https://raw.githubusercontent.com/SUN1996GTR/SUN1996GTR/main/KIDSv8",
 "import": false},
  
 {
 "name":"Wiseplay",
 "author": "BK-16",
-"image": "https://www.i-pic.info/i/j6vy308002.png",
+"image": "https://dl.dropbox.com/scl/fi/2ktcwxmybpv8ny3p5hrro/wp.png?rlkey=unj0s4euo70ac1aopv912n1g3&dl=0",
 "url": "https://dl.dropbox.com/s/yglb7xpbk1of4hp/%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B9%81%E0%B8%AD%E0%B8%9E.txt?dl=0",
 "import": false},
  
-
+ 
  
 {
 "name": "คลังหนังและซี่รีย์",
-"image": "https://www.i-pic.info/i/igI9308003.png",
+"image": "https://dl.dropbox.com/scl/fi/edo09cuzwtuhr0ekc8m24/mvt.png?rlkey=thk2iiymuzh09s0yh4qfgi5fd&dl=0",
 "url": "https://dl.dropbox.com/s/32pa2wja277gw9o/%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%8B%E0%B8%B5%E0%B9%88%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B9%8C.txt?dl=0",
 "import": false
 },
-
+ 
 {
 "name": "เว็บไซต์ - Online",
-"image": "https://www.i-pic.info/i/l36c308006.png",
-"url": "https://DL.dropbox.com/s/mr64z72d6bqy2wo/%E0%B9%80%E0%B8%A7%E0%B9%87%E0%B8%9A%E0%B9%84%E0%B8%8B%E0%B8%95%E0%B9%8C%20-%20Online.m3u?dl=0",
+"image": "https://dl.dropbox.com/scl/fi/zs5bki1rphu0ipqrifknu/www.png?rlkey=yz8rw3r6jplgcmdtcllran5ta&dl=0",
+"url": "https://dl.dropbox.com/scl/fi/nxvo7vjtgpjh50s53pnmu/Online.m3u?rlkey=oqcxa18l1igw9z46lyo7l6zbw&dl=0",
 "import": false
 }, 
-
-
-
-
+ 
+ 
+ 
+ 
 {
 "name": "Sport Live",
-"image": "https://www.i-pic.info/i/eqRn308008.png",
+"image": "https://dl.dropbox.com/scl/fi/j419rzgpjz1cixgkhzau1/live.png?rlkey=k5ffvy9wi5cjq7wyk43zvv7tf&dl=0",
 "url": "https://dl.dropbox.com/s/yp3bx9mdfuzawgc/SportLive.txt?dl=0",
 "import": false
 }, 
-
-
-
+ 
+ 
+ 
 {
 "name": "ANIME ZONE",
-"image": "https://www.i-pic.info/i/YGj5380127.png",
+"image": "https://dl.dropbox.com/scl/fi/hrv0jrtvvq2we5wqff7w0/ane.png?rlkey=21sxpz88lylcbzohlshijx2u1&dl=0",
 "url": "https://dl.dropbox.com/s/0vk5xrn2t5ztklj/ANIME%20ZONE.txt?dl=0",
 "import": false 
 },
-
-
-
+ 
+ 
+ 
 {
 "name": "18+ ADULT",
-"image": "https://www.i-pic.info/i/HmBu380128.png",
+"image": "https://dl.dropbox.com/scl/fi/ycxrln9aj0ymlhb7bi2gn/DDD.png?rlkey=eyxqwwfovapk8ywk5pum27c0r&dl=0",
 "url": "https://pastebin.com/KLFyfP46",
 "import": false 
 },
-
+ 
 {
-"name": "FreeTVdd",
-"image": "https://www.i-pic.info/i/DQFl573321.png",
-"url": "https://dl.dropbox.com/scl/fi/s7qqmys6i1fyv09a0ifu4/FreeTVdd.txt?rlkey=0xwq70v2nfunn2qd930t0jzen&dl=0",
+"name": "Dookeela",
+"image": "https://www.i-pic.info/i/umhv786600.png",
+"url": "https://dl.dropbox.com/scl/fi/hh2pcksa6ljpzp75gnzpl/Dookeela.txt?rlkey=ansl4c87mlztzm3ps4t4wcw4g&dl=0",
 "import": false
 },
-
-
-
+ 
+ 
+{
+"name": "Sports Day",
+"image": "https://dl.dropbox.com/scl/fi/mozrzicz4cfyqd4u4byhs/asdasdaaaa.png?rlkey=0a8hsl5zp4apz5vah321o5u0w&dl=0",              
+"url": "https://dl.dropbox.com/scl/fi/xzpe6y9lnyqebry5w2mh5/SportsDay.txt?rlkey=mlkqr73xqrh00751za4lxflt4&dl=0",
+"import": false
+},
+ 
 {
 "name": "วิทยุ",
-"image": "https://www.i-pic.info/i/gbr3308007.png",
+"image": "https://dl.dropbox.com/scl/fi/qnpo4zc0zqzmltmhnan61/rd.png?rlkey=kkn1efwbcs6iy0j6y8l202edf&dl=0",
 "url": "https://dl.dropbox.com/s/38t4b4gvmvdubvn/radio.txt?dl=0",
 "import": false
 },
-
+ 
 {
 "name": "ติอต่อ แจ้งปัญหา",
-"image": "https://www.i-pic.info/i/WEdH308012.png",
+"image": "https://dl.dropbox.com/scl/fi/ylf7l2lh2xvvzvqgufeos/bk16.png?rlkey=l13cs6yitzke3m4fknqwosomf&dl=0",
 "url": "https://pastebin.com/raw/BXKeYkc5",
 "import": false
 },
-
-
-
-
+ 
+ 
+ 
+ 
 ],
-
+ 
 "stations":[
-
-
+ 
+ 
 {
 "name": "ANDAMAN888TH",
-"image": "https://www.i-pic.info/i/aqCW592047.png",
+"image": "https://dl.dropbox.com/scl/fi/l0y595sslo0ln9fd6bvwd/AAAAAD.png?rlkey=0x1h8obgcux2m8leqmolcjfpv&dl=0",
 "url": "https://www.andaman888th.com/%e0%b8%94%e0%b8%b9%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b8%ad%e0%b8%ad%e0%b8%99%e0%b9%84%e0%b8%a5%e0%b8%99%e0%b9%8c/",
 "embed": "true",
 "playInNatPlayer": "true",
 "webviewType": "chrome"
 },
-
+ 
 {
 "name": "มวยไทย",
-"image": "https://www.i-pic.info/i/M6Rx378764.png",              
+"image": "https://dl.dropbox.com/scl/fi/3yub9ym3hl1vh5hatg4u6/mt.png?rlkey=2vai7er484r0vqw7j31w3iiy8&dl=0",              
 "url": "https://www.youtube.com/@ONEChampionship",
 "embed": "true",
 "playInNatPlayer": "true",
 "webviewType": "chrome"
 },
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 {
 "name": "โปรแกรมถ่ายทอดสด",
-"image": "https://www.i-pic.info/i/e2nm309057.png",              
+"image": "https://dl.dropbox.com/scl/fi/sjtysobt6jxgn5xelatv0/6.png?rlkey=d4mmtiwi55lwj0cnmnd1x3kgq&dl=0",              
 "url": "https://www.premierdream.com/program/",
 "embed": "true",
 "playInNatPlayer": "true",
 "webviewType": "chrome"
 },
-
  
-
  
-
+ 
+ 
+ 
 {
 "name": "",
-"image": "https://www.i-pic.info/i/f5LN329951.png",              
+"image": "https://dl.dropbox.com/scl/fi/go7hiverkfpkk30acy15h/I.png?rlkey=8jzdqbttjasjc5vwze9tqwo6l&dl=0",              
 "url": "https://inwiptv.com/demo.php",
 "embed": "true",
 "playInNatPlayer": "true",
 "webviewType": "chrome"
 },
-
+ 
 {
 "name": "",
-"image": "https://www.i-pic.info/i/oixv463276.png",              
+"image": "https://dl.dropbox.com/scl/fi/1lf9zgxzh6u4m0ye6z9bj/wwwww.png?rlkey=xb82cgngvrhj426ospdnvg9zu&dl=0",              
 "url": "https://www.google.co.th/?client=safari&channel=ipad_bm",
 "embed": "true",
 "playInNatPlayer": "true",
 "webviewType": "chrome"
 },
-
-
+ 
+ 
 ]
 }
